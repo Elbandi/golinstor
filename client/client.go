@@ -33,8 +33,8 @@ import (
 	"strings"
 
 	"github.com/donovanhide/eventsource"
-	"github.com/moul/http2curl"
 	"golang.org/x/time/rate"
+	"moul.io/http2curl"
 )
 
 // Client is a struct representing a LINSTOR REST client.
